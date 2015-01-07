@@ -1,7 +1,5 @@
 'use strict';
 
-var ng = angular || {};
-
 (function(angular) {
     angular.module('screenRefresher', ['ngSanitize'])
     .factory('screenFactory', ['$http', '$q', function($http, $q) {
@@ -38,4 +36,4 @@ var ng = angular || {};
             }
         });
     }]);
-}(ng));
+}(angular));
