@@ -1,0 +1,9 @@
+{
+    "timeout": 8000,
+    "urls": [
+        "http://www.timesofmalta.com",
+        "http://www.casumo.com",
+        "http://m.casumo.com",
+        "http://www.casumoaffiliates.com"
+    ]
+}
